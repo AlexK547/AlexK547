@@ -1,29 +1,12 @@
 # Hello world!
 
-My name is Alexandr. This is my github profile
+My name is Alexandr. This is my github profile.
 
 ## My apps
 
-
-<details open="open">
-  <summary>Random jokes</summary>
-
-### Random jokes
-
-[Repository](https://github.com/AlexK547/random-jokes)
-
-[Deploy](https://alexk547.github.io/random-jokes/)
-
-#### Technology:
-- HTML
-- CSS
-- JS
-
-</details>
-
 ---
 
-<details open="open">
+<details>
   <summary>Plants</summary>
 
 ### Plants
@@ -43,20 +26,7 @@ My name is Alexandr. This is my github profile
 
 ---
 
-### CSS Bayan
-
-[Repository](https://github.com/AlexK547/cssBayan/tree/gh-pages/cssBayan)
-
-[Deploy](https://alexk547.github.io/cssBayan/cssBayan/)
-
-#### Technology:
-- HTML
-- CSS
-- BEM
-
----
-
-<details open="open">
+<details>
   <summary>Fifteen game</summary>
 
 ### Fifteen game
@@ -71,5 +41,41 @@ My name is Alexandr. This is my github profile
 - JS
 - BEM
 - webpack
+
+</details>
+
+---
+
+<details>
+  <summary>CSS Bayan</summary>
+
+### CSS Bayan
+
+[Repository](https://github.com/AlexK547/cssBayan/tree/gh-pages/cssBayan)
+
+[Deploy](https://alexk547.github.io/cssBayan/cssBayan/)
+
+#### Technology:
+- HTML
+- CSS
+- BEM
+
+</details>
+
+---
+
+<details>
+  <summary>Random jokes</summary>
+
+### Random jokes
+
+[Repository](https://github.com/AlexK547/random-jokes)
+
+[Deploy](https://alexk547.github.io/random-jokes/)
+
+#### Technology:
+- HTML
+- CSS
+- JS
 
 </details>
