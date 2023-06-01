@@ -1,16 +1,75 @@
-### Hi there 👋
+# Hello world!
 
-<!--
-**AlexK547/AlexK547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alexandr. This is my github profile
 
-Here are some ideas to get you started:
+## My apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<details open="open">
+  <summary>Random jokes</summary>
+
+### Random jokes
+
+[Repository](https://github.com/AlexK547/random-jokes)
+
+[Deploy](https://alexk547.github.io/random-jokes/)
+
+#### Technology:
+- HTML
+- CSS
+- JS
+
+</details>
+
+---
+
+<details open="open">
+  <summary>Plants</summary>
+
+### Plants
+
+[Repository](https://github.com/AlexK547/plants-webpack)
+
+[Deploy](https://alexk547.github.io/plants-webpack/dist/)
+
+#### Technology:
+- HTML
+- SCSS
+- JS
+- BEM
+- webpack
+
+</details>
+
+---
+
+### CSS Bayan
+
+[Repository](https://github.com/AlexK547/cssBayan/tree/gh-pages/cssBayan)
+
+[Deploy](https://alexk547.github.io/cssBayan/cssBayan/)
+
+#### Technology:
+- HTML
+- CSS
+- BEM
+
+---
+
+<details open="open">
+  <summary>Fifteen game</summary>
+
+### Fifteen game
+
+[Repository](https://github.com/AlexK547/fifteen-game)
+
+[Deploy](https://alexk547.github.io/fifteen-game/dist/)
+
+#### Technology:
+- HTML
+- SCSS
+- JS
+- BEM
+- webpack
+
+</details>
