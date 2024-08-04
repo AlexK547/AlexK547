@@ -1,8 +1,63 @@
 # Hello world!
 
-My name is Alexandr. This is my github profile.
+Hello. I'm Alexandr.
+This is my github profile.
+
+## I'm a fullstack Developer
+- 💪 I like to write code in java and javascript
+- 🥅 I am constantly learning new things
+
+### 🧰 Languages and Tools:
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./icons/java.png" />
+<img align="left" alt="Jakarta EE" width="30px" style="padding-right:10px;" src="./icons/jakarta.jpg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="./icons/spring.png" />
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="./icons/html.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="./icons/css.svg" />
+<img align="left" alt="SASS/SCSS" width="30px" style="padding-right:10px;" src="./icons/sass.png" />
+<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="./icons/javascript.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="./icons/typescript.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="./icons/react.svg" />
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="./icons/git.svg" />
+<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="./icons/github.svg" />
+
+<br />
+<br />
 
 ## My apps
+
+---
+
+<details>
+  <summary>Shelter</summary>
+
+### Shelter
+
+[Repository](https://github.com/AlexK547/shelter)
+
+#### Technology:
+- java
+- jakarta
+- PostgreSQL
+
+</details>
+
+---
+
+<details>
+  <summary>Quiz english</summary>
+
+### Quiz english
+
+[Repository](https://github.com/AlexK547/quiz-english)
+
+#### Technology:
+- java
+- java Swing
+- PostgreSQL
+
+</details>
 
 ---
 
