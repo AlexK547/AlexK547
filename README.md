@@ -9,8 +9,17 @@ This is my github profile.
 
 ### 🧰 Languages and Tools:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./icons/java.png" />
-<img align="left" alt="Jakarta EE" width="30px" style="padding-right:10px;" src="./icons/jakarta.jpg" />
+<img align="left" alt="Jakarta EE" width="40px" style="padding-right:10px;" src="./icons/jakarta.jpg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="./icons/spring.png" />
+
+<br />
+<br />
+
+<img align="left" alt="SQL" width="60px" style="padding-right:10px;" src="./icons/SQL.jpg" />
+<img align="left" alt="PostgreSQL" width="60px" style="padding-right:10px;" src="./icons/postgresql.png" />
+
+<br />
+<br />
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="./icons/html.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="./icons/css.svg" />
@@ -18,6 +27,9 @@ This is my github profile.
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="./icons/javascript.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="./icons/typescript.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="./icons/react.svg" />
+
+<br />
+<br />
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="./icons/git.svg" />
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="./icons/github.svg" />
