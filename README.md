@@ -72,6 +72,25 @@ This is my github profile.
 ---
 
 <details>
+  <summary>Coffee house</summary>
+
+### Coffee house
+
+[Repository](https://github.com/AlexK547/coffee-house)
+
+[Deploy](https://alexk547.github.io/coffee-house)
+
+#### Technology:
+- React
+- vite
+- typescript
+- SCSS
+
+</details>
+
+---
+
+<details>
   <summary>Plants</summary>
 
 ### Plants
