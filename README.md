@@ -8,34 +8,32 @@ This is my github profile.
 - 🥅 I am constantly learning new things
 
 ### 🧰 Languages and Tools:
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./icons/java.png" />
-<img align="left" alt="Jakarta EE" width="40px" style="padding-right:10px;" src="./icons/jakarta.jpg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="./icons/spring.png" />
 
-<br />
-<br />
+- <p>
+  <img align="left" alt="Java" height="30px" style="padding-right:10px;" src="./icons/java.png" />
+  <img align="left" alt="Jakarta EE" height="30px" style="padding-right:10px;" src="./icons/jakarta.jpg" />
+  <img align="left" alt="Spring" height="30px" style="padding-right:10px;" src="./icons/spring.png" />
+</p>
 
-<img align="left" alt="SQL" width="60px" style="padding-right:10px;" src="./icons/SQL.jpg" />
-<img align="left" alt="PostgreSQL" width="60px" style="padding-right:10px;" src="./icons/postgresql.png" />
+- <p>
+  <img align="left" alt="SQL" height="30px" style="padding-right:10px;" src="./icons/SQL.jpg" />
+  <img align="left" alt="PostgreSQL" height="30px" style="padding-right:10px;" src="./icons/postgresql.png" />
+</p>
 
-<br />
-<br />
+- <p>
+  <img align="left" alt="HTML" height="30px" style="padding-right:10px;" src="./icons/html.svg" />
+  <img align="left" alt="CSS" height="30px" style="padding-right:10px;" src="./icons/css.svg" />
+  <img align="left" alt="SASS/SCSS" height="30px" style="padding-right:10px;" src="./icons/sass.png" />
+  <img align="left" alt="Javascript" height="30px" style="padding-right:10px;" src="./icons/javascript.svg" />
+  <img align="left" alt="TypeScript" height="30px" style="padding-right:10px;" src="./icons/typescript.svg" />
+  <img align="left" alt="React" height="30px" style="padding-right:10px;" src="./icons/react.svg" />
+</p>
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="./icons/html.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="./icons/css.svg" />
-<img align="left" alt="SASS/SCSS" width="30px" style="padding-right:10px;" src="./icons/sass.png" />
-<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="./icons/javascript.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="./icons/typescript.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="./icons/react.svg" />
+- <p>
+  <img align="left" alt="Git" height="30px" style="padding-right:10px;" src="./icons/git.svg" />
+  <img align="left" alt="Github" height="30px" style="padding-right:10px;" src="./icons/github.svg" />
+</p>
 
-<br />
-<br />
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="./icons/git.svg" />
-<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="./icons/github.svg" />
-
-<br />
-<br />
 
 ## My apps
 
